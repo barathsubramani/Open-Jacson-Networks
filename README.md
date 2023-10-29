@@ -66,3 +66,4 @@ print("----------------------------------------------------------------------")
 ![model](6.png)
 
 ## Result
+Thus the program is written successfully.
